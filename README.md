@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Surya</h1>
 <h3 align="center">A passionate Devops and Cloud Tutor from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXJOWlhkaU1ZRUFnVFhWYjhNUE9MWndEVURHd3xBQ3Jtc0tuQkhyTWh2WGh0ZlViQ2xnaWJJcDloSllxNDFBb0cxRmNhY2s1Qk1kWURzWVV6MUFKeVNjMG9WSHJBNmJ0MDlCTkhWRm9rdkMtejU1U3A1dEpDZzAxcC1vSEFsRFNMa1ZoZkdoSGdkSTBUb3dzaGVsNA&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
      
 - 🌱 I’m currently learning **New Technologies**
 
