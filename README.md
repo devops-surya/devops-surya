@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Devops & Cloud**
 
-- 📫 How to reach me **teja.mvs225@gmail.com**
+- 📫 How to reach me **devopssurya225@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
