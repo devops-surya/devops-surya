@@ -27,18 +27,11 @@
 
 
 ### CI/CD Tools
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>  <img src="https://www.plutora.com/wp-content/uploads/2018/08/teamcity.png" alt="Teamcity" title="Teamcity" width="40" height="40"/> <img src="https://www.almtoolbox.com/blog/wp-content/uploads//2018/02/gitlab-logo-purple-1.jpg" alt="GitLab" title="GitLab" width="40" height="40"/> </p>
-
-### Build Tools
-<p align="left"> <img src="https://banner2.cleanpng.com/20180607/esv/kisspng-apache-maven-apache-ant-gradle-apache-http-server-apache-maven-5b194e571b97f1.295739891528385111113.jpg" alt="maven" title="Maven" width="40" height="40"/> <img src="https://authy.com/wp-content/uploads/npm-logo.png" alt="maven" title="Maven" width="40" height="40"/> </p>
-
+<p align="left"> <img src="https://banner2.cleanpng.com/20180607/esv/kisspng-apache-maven-apache-ant-gradle-apache-http-server-apache-maven-5b194e571b97f1.295739891528385111113.jpg" alt="maven" title="Maven" width="40" height="40"/> <img src="https://authy.com/wp-content/uploads/npm-logo.png" alt="NPM" title="NPM" width="40" height="40"/>         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>  <img src="https://www.plutora.com/wp-content/uploads/2018/08/teamcity.png" alt="Teamcity" title="Teamcity" width="40" height="40"/> <img src="https://www.almtoolbox.com/blog/wp-content/uploads//2018/02/gitlab-logo-purple-1.jpg" alt="GitLab" title="GitLab" width="40" height="40"/>          <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" title="Ansible" width="40" height="40"/> </p></p> 
 
 ### IAAC Tools
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> <img src="https://media.trustradius.com/product-logos/M0/Qm/14A3HOAGB1LD.PNG" alt="Packer" title="Packer" width="40" height="40"/>  </p>
 
-
-### CM Tools
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" title="Ansible" width="40" height="40"/> </p>
 
 ### Artifactory:
 <p align="left">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9VnWqIykA_K69cw2noleJly3Y01ejKwVkkMRCJWONaorPZOHcMquEM4HetJbDXHX6qpg&usqp=CAU" alt="Jfrog" title="Jfrog" width="40" height="40"/>  <img src="https://seekvectorlogo.com/wp-content/uploads/2019/03/inedo-proget-vector-logo-small.png" alt="Proget" title="Proget" width="40" height="40"/> </p>
