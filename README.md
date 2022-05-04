@@ -38,14 +38,14 @@
 
 
 ### CM Tools
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> </p>
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" title="Ansible" width="40" height="40"/> </p>
 
 ### Artifactory:
 <p align="left">  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9VnWqIykA_K69cw2noleJly3Y01ejKwVkkMRCJWONaorPZOHcMquEM4HetJbDXHX6qpg&usqp=CAU" alt="Jfrog" title="Jfrog" width="40" height="40"/>  <img src="https://seekvectorlogo.com/wp-content/uploads/2019/03/inedo-proget-vector-logo-small.png" alt="Proget" title="Proget" width="40" height="40"/> </p>
 
 
 ### Monitoring Tols
-<p align="left"> <img src="https://www.logolynx.com/images/logolynx/89/891729651d169fe5627ad2e67241eec9.jpeg" alt="zabbix" title="zabbix" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-RiOKakl9RTQ2-ly3h_NUWMMG3U_PtmPhAE_s5-6Sf5MQtizBhliXtfLmEyDmFD04-k&usqp=CAU" alt="Promotheus" title="Promotheus" width="40" height="40"/> <img src="https://www.kindpng.com/picc/m/715-7156771_grafana-png-grafana-logo-transparent-png.png" alt="Grafana" title="Grafana" width="40" height="40"/> </p>
+<p align="left"> <img src="https://www.logolynx.com/images/logolynx/89/891729651d169fe5627ad2e67241eec9.jpeg" alt="zabbix" title="zabbix" width="40" height="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-RiOKakl9RTQ2-ly3h_NUWMMG3U_PtmPhAE_s5-6Sf5MQtizBhliXtfLmEyDmFD04-k&usqp=CAU" alt="Promotheus" title="Promotheus" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/Grafana_logo.svg/1200px-Grafana_logo.svg.png" alt="Grafana" title="Grafana" width="40" height="40"/> </p>
 
 
 ### Containerization and Orchestration
@@ -53,7 +53,7 @@
 
 
 ### Scripting 
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bashscript" width="40" height="40"/> </p>
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bashscript" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="AnsibleScripting" title="AnsibleScripting" width="40" height="40"/> </p>
 
 ### Other Tools:
 <p align="left"><img src="https://icon2.cleanpng.com/20180326/xiw/kisspng-visual-studio-code-microsoft-visual-studio-source-notice-5ab888a482caf8.8804624115220430445357.jpg" alt="VSC" title="VisualStudioCode" width="40" height="40"/>  <img src="https://joshmccarty.com/wp-content/uploads/2016/11/gwindows_logo.png" alt="Gitbash" title="Gitbash" width="40" height="40"/> <img src="https://designlogovector.com/wp-content/uploads/2022/02/jira-logo-svg.jpg" alt="Jira" title="Jira" width="40" height="40"/>  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvCNmTNQGhrmpXUaQ6ZzjuwE6UMM9EoDKbaPD2PREf44ZMtOlLclzhy7woHlNrhtmNKk8&usqp=CAU" alt="Rally" title="Rally" width="40" height="40"/>   </p>
